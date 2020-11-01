@@ -1,0 +1,61 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src"
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "ProdNombre": "01",
+      "ProdPrecioCompra": "400",
+      "ProdPrecioVenta": "550",
+      "ProdEsperecedero": "t/f",
+      "ProFechaCaducidad": "02/15/2020",
+      "ProdColor": "Green",
+      "ProdMarca": "Dell",
+      "ProdModelo": "t800",
+      "catCodigo": "5123649",
+      "ProdPoseeGarantia": "no",
+      "ProTiempGarantia": "3dias",
+      "ProdExistenciaMinima": "2",
+      "ProPorcentajemargen": "20",
+      "EmpCodigo": "6523"
+    },
+    {
+      "id": "2",
+      "ProdNombre": "01",
+      "ProdPrecioCompra": "400",
+      "ProdPrecioVenta": "550",
+      "ProdEsperecedero": "t/f",
+      "ProFechaCaducidad": "02/15/2020",
+      "ProdColor": "Green",
+      "ProdMarca": "Dell",
+      "ProdModelo": "t800",
+      "catCodigo": "5123649",
+      "ProdPoseeGarantia": "no",
+      "ProTiempGarantia": "3dias",
+      "ProdExistenciaMinima": "2",
+      "ProPorcentajemargen": "20",
+      "EmpCodigo": "6523"
+    },
+    {
+      "id": "3",
+      "ProdNombre": "01",
+      "ProdPrecioCompra": "400",
+      "ProdPrecioVenta": "550",
+      "ProdEsperecedero": "t/f",
+      "ProFechaCaducidad": "02/15/2020",
+      "ProdColor": "Green",
+      "ProdMarca": "Dell",
+      "ProdModelo": "t800",
+      "catCodigo": "5123649",
+      "ProdPoseeGarantia": "no",
+      "ProTiempGarantia": "3dias",
+      "ProdExistenciaMinima": "2",
+      "ProPorcentajemargen": "20",
+      "EmpCodigo": "6523"
+    }
+  ]
+}
